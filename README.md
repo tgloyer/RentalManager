@@ -1,5 +1,5 @@
 # Rental Manager
-A simple Java applicationof a rental property management system that allows users to manage properties, tenants, and payments using file I/O.
+A simple Java application of a rental property management system that allows users to manage properties, tenants, and payments using file I/O.
 ## Feautures 
 - Add, remove, and list rental properties, tenants, and payments
 - Manage tenant information
